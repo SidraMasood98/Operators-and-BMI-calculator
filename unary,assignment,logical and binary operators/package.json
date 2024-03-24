@@ -1,0 +1,12 @@
+{
+  "name": "operators-in-typescript-and-node-js",
+  "version": "1.0.0",
+  "description": "in this project I have solved unary operators,assignment operators and comparasion operators",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sidra Masood (roll number : 00099796)",
+  "license": "ISC"
+}
